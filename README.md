@@ -1,7 +1,9 @@
 ## ML Course
 
+* TOC
+{:toc}
 
-**Teaching staff**:
+### Teaching staff:
 
 Lectures: Gal Chechik, gondaneuralnetworks @ gmail.com
 
