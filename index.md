@@ -29,7 +29,7 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 - Part C: Dynamical systems ([textbook 1](http://www.google.com/url?q=http%3A%2F%2Fwww.ams.jhu.edu%2F~ers%2Finvite%2Findex.html&sa=D&sntz=1&usg=AFQjCNHx49RlyhRwAxnU3GmmWUNv7pOjmw), [textbook 2](http://www.google.com/url?q=http%3A%2F%2Fwww.izhikevich.org%2Fpublications%2Fdsn.pdf&sa=D&sntz=1&usg=AFQjCNEeryHZ46ulsyTDZDfGxbpK5eH5AQ))
 
 
-**List of classes Fall 2020**: [Inset a link here](https://)
+**List of classes Fall 2020**: [Insert a link here](https://)
 
 
 
@@ -107,3 +107,33 @@ Exams from previous years:
 - DS: Lyapunov [as energy functions](http://hebb.mit.edu/courses/9.641/2006/readings/Slotine91.pdf)
 - ML: Bell & Sejnowski's paper: ["An information-maximization approach to blind separation and blind deconvolution"](http://web.mit.edu/6.962/www/www_spring_2001/shaas/bell.blind.pdf)
 
+
+
+## Administration 
+
+**The final grade **is computed as a combination of (1) home assignments (2) Mid-term exam (3) Final project. Students must complete all three to pass the course. The two home assignments with the lowest grades will not be taken into account (if their grade is higher than 60).
+
+                             Grade = 0.3 * Home Assignments + 0.3 Mid-term exam + 0.4 Final project.
+
+**Home assignment policies**: Students are allowed to solve assignments in pairs. They must write the solutions themselves and submit each assignment as individuals. If you have collaborated when working on an assignment, mark clearly the name of the people you collaborated with. 
+
+**Programming exercises**: 
+
+Each student should submit a digital copy of their exercise.
+It should contain: 
+
+1. (full answers and detailed explanation as you were asked to provide in the home assignment.
+2. your code.
+
+- submission: 
+Email it to:  nn.homework.2020 @ gmail.com  by the deadline.
+
+Acceptable formats are: PDF, plain text, or  word.
+
+The email title should include #assignment, and the submitting students full name and ID.
+
+For example,  Email subject: "Assignment 3, submitted by Uri Shalit, ID 01234787485".
+
+- Late home assignment submissions: 
+
+Each student is allowed a total of 5 late days, to spend across all exercises as they wish. We cannot guarantee that exercises submitted after the deadline will be at all graded, but if they are graded, they will suffer a penalty of 20 points. 
