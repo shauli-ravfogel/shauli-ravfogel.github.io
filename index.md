@@ -69,17 +69,22 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 - Class 9: [AEP](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4OjQ1NWNiMzRmYWQ2YjdkMmY), [Differential Entropy](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4OjE2NmNhZjEzZGYwZjdlZA)
 - [Class 10](https://docs.google.com/presentation/d/1PalysOogCCyk7V2RheMtT0PA0_mZFa5EE1fSSVPN3W0/edit?usp=sharing): VAE       
 
+
+### 
+
+- Topics: 
+
+- Deep Neural Networks: NN
+- Dynamical systems: DS
+- Machine Learning: ML
+- Probabilistic modelling, information theory: PR / IT
+- Theoretical Neuroscience: TH
+    
+    
 ### Exams from previous years: 
 
-- 2008 [Exam](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-I.pdf?attredirects=0), [Exam2](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-II.pdf?attredirects=0)
-- 2009 [Exam](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-I.pdf?attredirects=0), [Exam2](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-II.pdf?attredirects=0)
-- 2010 [Exam](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-I.pdf?attredirects=0), [Exam2](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-II.pdf?attredirects=0)
-- 2011 [Exam](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-I.pdf?attredirects=0), [Exam2](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-II.pdf?attredirects=0)
-- 2012 [Exam](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-I.pdf?attredirects=0), [Exam2](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-II.pdf?attredirects=0)
-- 2013 [Exam](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-I.pdf?attredirects=0), [Exam2](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-II.pdf?attredirects=0)
-- 2014 [Exam](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-I.pdf?attredirects=0), [Exam2](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-II.pdf?attredirects=0)
 
-xams from previous years: 
+Exams from previous years: 
 
 - 2008 [Exam I](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-I.pdf?attredirects=0), [Exam II](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-II.pdf?attredirects=0)
 - 2009 [Exam I](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2009-final-exam-I.pdf?attredirects=0), [Exam II](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2009-final-exam-II.pdf?attredirects=0)
@@ -87,41 +92,18 @@ xams from previous years:
 - 2011 [Exam I](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4OjUzOTE2ZDI4MTE4YjFjMDY), [Exam II](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4Ojc5NjY1NGQ3NThkNGY2ODE), [mid-term A](https://sites.google.com/site/gondaneuralnetworks/NN-2011-midterm-exam-moed-A.pdf?attredirects=0), [mid-term B](https://sites.google.com/site/gondaneuralnetworks/NN-2011-midterm-exam-moed-B.pdf?attredirects=0)
 - 2012 [Exam I](https://sites.google.com/site/gondaneuralnetworks/NN-2012-final-exam-moed-A-final.pdf?attredirects=0), [Exam II](https://sites.google.com/site/gondaneuralnetworks/NN-2012-final-exam-moed-B.pdf?attredirects=0), , [mid-term A](https://sites.google.com/site/gondaneuralnetworks/NN-2012-midterm-exam-moed-A.pdf?attredirects=0), [mid-term B](https://sites.google.com/site/gondaneuralnetworks/NN-2012-midterm-exam-moed-B.pdf?attredirects=0),
 - 2013 [Exam I](https://sites.google.com/site/gondaneuralnetworks/NN-2013-mid-term-exam-moed-B.pdf), [Exam I](https://sites.google.com/site/gondaneuralnetworks/NN-2013-final-exam-moed-B.pdf?attredirects=0)
-- 2014 Final Exam,   Midterm Exam
-- 2014 Sample problems for the mid-term exam, and the final exam
+- 2014 [Final Exam](https://sites.google.com/site/gondaneuralnetworks/NN-2014-final-exam-moed-A.pdf?attredirects=0), [Midterm Exam](https://sites.google.com/site/gondaneuralnetworks/NN-2014-midterm-exam-moed-A.pdf?attredirects=0)
+- 2014 [Sample problems for the mid-term exam](https://sites.google.com/site/gondaneuralnetworks/home/rehearsal), and the [final exam](https://sites.google.com/site/gondaneuralnetworks/Fall2012_rehearse_problemset.pdf?attredirects=0)
 - 2015 course was not given
-- 2016 Exam,  I Exam II
+- 2016 [Exam I](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4OjNkOWU0ZjI0Y2FjYmU4NTU),  [Exam II](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4OjFmNDcxZWY2OTg5YThjMGE)
 - 2017 course was not given
 - 2018 course was not given
 
-### Markdown
+### Related material:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- NN: [Attractor neural networks](http://www.scholarpedia.org/article/Attractor_network) (Scholarpedia)
+- TH: [Conductance based models](http://www.scholarpedia.org/article/Conductance-based_models) (Scholarpedia)
+- TH: Fitzhugh-Naumo model: [Scholarpedia (with animated GIFs)](http://www.scholarpedia.org/article/FitzHugh-Nagumo_model), [Book chapters by Izhikevitch](http://www.izhikevich.org/publications/dsn.pdf)
+- DS: Lyapunov [as energy functions](http://hebb.mit.edu/courses/9.641/2006/readings/Slotine91.pdf)
+- ML: Bell & Sejnowski's paper: ["An information-maximization approach to blind separation and blind deconvolution"](http://web.mit.edu/6.962/www/www_spring_2001/shaas/bell.blind.pdf)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shauli-ravfogel/shauli-ravfogel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
