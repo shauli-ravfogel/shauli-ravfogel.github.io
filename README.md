@@ -1,8 +1,34 @@
-## Welcome to GitHub Pages
+## ML Course
 
-You can use the [editor on GitHub](https://github.com/shauli-ravfogel/shauli-ravfogel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Teaching staff**:
+
+Lectures: Gal Chechik, gondaneuralnetworks @ gmail.com
+
+TA: Shauli Ravfogel, shauli321 @ gmail.com
+
+Home assignment grading: Hodaya Koslovski, nn.homework.2019 @ gmail.com
+
+When and where: 
+Gonda center (Bldg #901), Room 102 ("The small room")
+Mon. 10:00-11:30 (Gal) 
+Mon. 16:00-17:30 (Shauli)   
+Tue. 10:00-11:30 (Gal)   
+
+**The course covers**: 
+Theory and algorithms of learning from examples, with a focus on deep learning. 
+There will also be a short chapter on information theory and its relation to learning.
+
+Part A: Learning from Examples ([textbook 1](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738), [online course](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA))
+
+Part B: Information processing, plasticity and unsupervised Learning:
+Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.toronto.edu/~mackay/itprnn/p0.html#book.html), [textbook 2](http://books.google.de/books?id=hrZYAAAACAAJ&dq=theoretical+neuroscience))
+
+Part C: Dynamical systems ([textbook 1](http://www.google.com/url?q=http%3A%2F%2Fwww.ams.jhu.edu%2F~ers%2Finvite%2Findex.html&sa=D&sntz=1&usg=AFQjCNHx49RlyhRwAxnU3GmmWUNv7pOjmw), [textbook 2](http://www.google.com/url?q=http%3A%2F%2Fwww.izhikevich.org%2Fpublications%2Fdsn.pdf&sa=D&sntz=1&usg=AFQjCNEeryHZ46ulsyTDZDfGxbpK5eH5AQ))
+
+
+**List of classes Fall 2020**: [Inset a link here](https://)
+
 
 ### Markdown
 
