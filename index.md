@@ -81,18 +81,18 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 
 xams from previous years: 
 
--2008 [Exam I](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-I.pdf?attredirects=0), [Exam II](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-II.pdf?attredirects=0)
--2009 [Exam I](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2009-final-exam-I.pdf?attredirects=0), [Exam II](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2009-final-exam-II.pdf?attredirects=0)
--2010 [Exam I](https://sites.google.com/site/gondaneuralnetworks/Fall2010_MOED-A.pdf?attredirects=0), [Exam II](https://sites.google.com/site/gondaneuralnetworks/Fall2010_MOED-B.pdf?attredirects=0) 
--2011 [Exam I](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4OjUzOTE2ZDI4MTE4YjFjMDY), [Exam II](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4Ojc5NjY1NGQ3NThkNGY2ODE), [mid-term A](https://sites.google.com/site/gondaneuralnetworks/NN-2011-midterm-exam-moed-A.pdf?attredirects=0), [mid-term B](https://sites.google.com/site/gondaneuralnetworks/NN-2011-midterm-exam-moed-B.pdf?attredirects=0)
--2012 Exam I, Exam II, , mid-term A, mid-term B,
--2013 Exam I, Exam I
--2014 Final Exam,   Midterm Exam
--2014 Sample problems for the mid-term exam, and the final exam
--2015 course was not given
--2016 Exam,  I Exam II
--2017 course was not given
--2018 course was not given
+- 2008 [Exam I](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-I.pdf?attredirects=0), [Exam II](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2008-final-exam-II.pdf?attredirects=0)
+- 2009 [Exam I](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2009-final-exam-I.pdf?attredirects=0), [Exam II](https://sites.google.com/site/gondaneuralnetworks/Neural-networks-fall-2009-final-exam-II.pdf?attredirects=0)
+- 2010 [Exam I](https://sites.google.com/site/gondaneuralnetworks/Fall2010_MOED-A.pdf?attredirects=0), [Exam II](https://sites.google.com/site/gondaneuralnetworks/Fall2010_MOED-B.pdf?attredirects=0) 
+- 2011 [Exam I](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4OjUzOTE2ZDI4MTE4YjFjMDY), [Exam II](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4Ojc5NjY1NGQ3NThkNGY2ODE), [mid-term A](https://sites.google.com/site/gondaneuralnetworks/NN-2011-midterm-exam-moed-A.pdf?attredirects=0), [mid-term B](https://sites.google.com/site/gondaneuralnetworks/NN-2011-midterm-exam-moed-B.pdf?attredirects=0)
+- 2012 [Exam I](https://sites.google.com/site/gondaneuralnetworks/NN-2012-final-exam-moed-A-final.pdf?attredirects=0), [Exam II](https://sites.google.com/site/gondaneuralnetworks/NN-2012-final-exam-moed-B.pdf?attredirects=0), , [mid-term A](https://sites.google.com/site/gondaneuralnetworks/NN-2012-midterm-exam-moed-A.pdf?attredirects=0), [mid-term B](https://sites.google.com/site/gondaneuralnetworks/NN-2012-midterm-exam-moed-B.pdf?attredirects=0),
+- 2013 [Exam I](https://sites.google.com/site/gondaneuralnetworks/NN-2013-mid-term-exam-moed-B.pdf), [Exam I](https://sites.google.com/site/gondaneuralnetworks/NN-2013-final-exam-moed-B.pdf?attredirects=0)
+- 2014 Final Exam,   Midterm Exam
+- 2014 Sample problems for the mid-term exam, and the final exam
+- 2015 course was not given
+- 2016 Exam,  I Exam II
+- 2017 course was not given
+- 2018 course was not given
 
 ### Markdown
 
