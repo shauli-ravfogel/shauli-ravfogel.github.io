@@ -58,17 +58,16 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 ## Notes and links
 
 ### Slides from Tirgul (Shauli, 2020):
-
-     [Class 1](https://docs.google.com/presentation/d/1wRg0xAyZ2ASUtwKPpzP5Kazyb_y_1Id6c90conArPAA/edit?usp=sharing): Introduction, projections, GD, Newton method
-     [Class 2](https://docs.google.com/presentation/d/1QrbO8eYUXvAK5sT0xBsmN3SIYHX_O0Y9iX1lGdOWeOk/edit?usp=sharing): MLE, Logistic regression, colab
-     [Class 3](https://docs.google.com/presentation/d/1UBFjQ-CRioD4RjI_d81ahWgFdSyxuR6r437nH5c21Uc/edit?usp=sharing): Multiclass, MLPs, backprop
-     [Class 4](https://docs.google.com/presentation/d/1fg7OyTcDFR0M2ha4QKTL2qfBtkf_27MCAWD-y1HZhr8/edit?usp=sharing): SVMs, Deep Dream
-     [Class 5](https://docs.google.com/presentation/d/12R-nIc4jGd0PJaORHD8SkUjBj2yeBnwT52afELfTQaI/edit?usp=sharing): Multivariate Gaussians, PCA
-     Class 6: [Information Theory](https://docs.google.com/presentation/d/1HdDItP2EbgmHUA939Z-wyS45ScNN89NB9J5G5WI0QkE/edit?usp=sharing), [Yoav Goldberg's Attention slides](http://www.google.com/url?q=http%3A%2F%2Fu.cs.biu.ac.il%2F~89-687%2Flec11.pdf&sa=D&sntz=1&usg=AFQjCNEVrtTDxxebNTqGW8QtmUFfQol78g)
-     [Class 7](https://docs.google.com/presentation/d/1buQ_iqUogPq_YQJAS6pQNvHdQAAqWekcjzOJBEtl1Bs/edit?usp=sharing): Source coding
-     [Class 8](https://docs.google.com/presentation/d/1nH1WiHHv3AcagOF4l2F85bKRchRgKGJd_I6TZrmbigw/edit?usp=sharing): Autoencoders
-     Class 9: [AEP](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4OjQ1NWNiMzRmYWQ2YjdkMmY), [Differential Entropy](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4OjE2NmNhZjEzZGYwZjdlZA)
-     [Class 10](https://docs.google.com/presentation/d/1PalysOogCCyk7V2RheMtT0PA0_mZFa5EE1fSSVPN3W0/edit?usp=sharing): VAE       
+- [Class 1](https://docs.google.com/presentation/d/1wRg0xAyZ2ASUtwKPpzP5Kazyb_y_1Id6c90conArPAA/edit?usp=sharing): Introduction, projections, GD, Newton method
+- [Class 2](https://docs.google.com/presentation/d/1QrbO8eYUXvAK5sT0xBsmN3SIYHX_O0Y9iX1lGdOWeOk/edit?usp=sharing): MLE, Logistic regression, colab
+- [Class 3](https://docs.google.com/presentation/d/1UBFjQ-CRioD4RjI_d81ahWgFdSyxuR6r437nH5c21Uc/edit?usp=sharing): Multiclass, MLPs, backprop
+- [Class 4](https://docs.google.com/presentation/d/1fg7OyTcDFR0M2ha4QKTL2qfBtkf_27MCAWD-y1HZhr8/edit?usp=sharing): SVMs, Deep Dream
+- [Class 5](https://docs.google.com/presentation/d/12R-nIc4jGd0PJaORHD8SkUjBj2yeBnwT52afELfTQaI/edit?usp=sharing): Multivariate Gaussians, PCA
+- Class 6: [Information Theory](https://docs.google.com/presentation/d/1HdDItP2EbgmHUA939Z-wyS45ScNN89NB9J5G5WI0QkE/edit?usp=sharing), [Yoav Goldberg's Attention slides](http://www.google.com/url?q=http%3A%2F%2Fu.cs.biu.ac.il%2F~89-687%2Flec11.pdf&sa=D&sntz=1&usg=AFQjCNEVrtTDxxebNTqGW8QtmUFfQol78g)
+- [Class 7](https://docs.google.com/presentation/d/1buQ_iqUogPq_YQJAS6pQNvHdQAAqWekcjzOJBEtl1Bs/edit?usp=sharing): Source coding
+- [Class 8](https://docs.google.com/presentation/d/1nH1WiHHv3AcagOF4l2F85bKRchRgKGJd_I6TZrmbigw/edit?usp=sharing): Autoencoders
+- Class 9: [AEP](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4OjQ1NWNiMzRmYWQ2YjdkMmY), [Differential Entropy](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4OjE2NmNhZjEzZGYwZjdlZA)
+- [Class 10](https://docs.google.com/presentation/d/1PalysOogCCyk7V2RheMtT0PA0_mZFa5EE1fSSVPN3W0/edit?usp=sharing): VAE       
 
 ### Markdown
 
