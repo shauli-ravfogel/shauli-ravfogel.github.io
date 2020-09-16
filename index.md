@@ -46,8 +46,6 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 - Grades
 
 - Assignments
-Submission deadline  Files
-12 November 2019        Ex 1
 
 | Submission deadline  | Files |
 | ------------- | ------------- |
