@@ -70,9 +70,8 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 - [Class 10](https://docs.google.com/presentation/d/1PalysOogCCyk7V2RheMtT0PA0_mZFa5EE1fSSVPN3W0/edit?usp=sharing): VAE       
 
 
-### 
 
-- Topics: 
+### Topics: 
 
 - Deep Neural Networks: NN
 - Dynamical systems: DS
