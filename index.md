@@ -38,10 +38,10 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 
 - Instructions
 
-    To appear on our lists, make sure to send an email with the subject line  NN2019 to gondaneuralnetworks @ gmail.com . 
-    Submission deadlines  are given below as well on the course plan on the home page. 
-    To submit, scan and email your assignment to nn.homework.2019 @ gmail.com. Alternatively, you can submit a hard copy to Hodaya located at the Slovin's lab, 2nd floor.
-    FAQ: [Why use python over matlab?](https://www.google.com/url?q=https%3A%2F%2Finsights.stackoverflow.com%2Ftrends%3Ftags%3Dpython%252Cmatlab&sa=D&sntz=1&usg=AFQjCNFnW1cNIYgh1evWBq3Pg3IukNgG7w)
+    1. To appear on our lists, make sure to send an email with the subject line  NN2019 to gondaneuralnetworks @ gmail.com . 
+    2. Submission deadlines are given below as well on the course plan on the home page. 
+    3. To submit, scan and email your assignment to nn.homework.2019 @ gmail.com. Alternatively, you can submit a hard copy to Hodaya located at the Slovin's lab, 2nd floor.
+    4. FAQ: [Why use python over matlab?](https://www.google.com/url?q=https%3A%2F%2Finsights.stackoverflow.com%2Ftrends%3Ftags%3Dpython%252Cmatlab&sa=D&sntz=1&usg=AFQjCNFnW1cNIYgh1evWBq3Pg3IukNgG7w)
 
 - Grades
 
