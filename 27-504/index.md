@@ -1,6 +1,4 @@
-## [A link to another course](course2.md)
-
-## ML Course
+## Graduate ML Course (27-504)
 
 * TOC
 {:toc}
