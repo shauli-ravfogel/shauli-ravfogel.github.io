@@ -1,4 +1,4 @@
-## <a href="course2.html">Page 2</a>
+## <a href="course2.md">Page 2</a>
 
 ## ML Course
 
