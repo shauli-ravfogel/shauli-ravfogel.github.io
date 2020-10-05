@@ -1,4 +1,4 @@
-## <a href="course2.md">Page 2</a>
+## [A link to another course](course2.md)
 
 ## ML Course
 
