@@ -26,7 +26,7 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 
 - Part C: Dynamical systems ([textbook 1](http://www.google.com/url?q=http%3A%2F%2Fwww.ams.jhu.edu%2F~ers%2Finvite%2Findex.html&sa=D&sntz=1&usg=AFQjCNHx49RlyhRwAxnU3GmmWUNv7pOjmw), [textbook 2](http://www.google.com/url?q=http%3A%2F%2Fwww.izhikevich.org%2Fpublications%2Fdsn.pdf&sa=D&sntz=1&usg=AFQjCNEeryHZ46ulsyTDZDfGxbpK5eH5AQ))
 
-&#x1F535;<font size="+5">**[List of classes Fall 2020](https://docs.google.com/spreadsheets/d/1M_9cPpwzFZhtw68XNeOtfzPQTlfsnhworC-0YNLJEdE/edit#gid=0)**</font>
+&#x1F535; **[List of classes Fall 2020](https://docs.google.com/spreadsheets/d/1M_9cPpwzFZhtw68XNeOtfzPQTlfsnhworC-0YNLJEdE/edit#gid=0)**
 
 
 
