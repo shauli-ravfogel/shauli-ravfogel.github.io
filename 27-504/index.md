@@ -29,7 +29,7 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 
 **List of classes Fall 2020**: [Link](https://docs.google.com/spreadsheets/d/1M_9cPpwzFZhtw68XNeOtfzPQTlfsnhworC-0YNLJEdE/edit#gid=0)
 <div class="bg-gray">
-  <b><a href="https://docs.google.com/spreadsheets/d/1M_9cPpwzFZhtw68XNeOtfzPQTlfsnhworC-0YNLJEdE/edit#gid=0" class="text-inherit">List of classes Fall 2020</a></b>
+  &#x1F535; <b><a href="https://docs.google.com/spreadsheets/d/1M_9cPpwzFZhtw68XNeOtfzPQTlfsnhworC-0YNLJEdE/edit#gid=0" class="text-inherit">List of classes Fall 2020</a></b>
 </div>
 
 
