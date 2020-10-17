@@ -24,11 +24,16 @@ There will also be a short chapter on information theory and its relation to lea
 - Part B: Information processing, plasticity and unsupervised Learning:
 Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.toronto.edu/~mackay/itprnn/p0.html#book.html), [textbook 2](http://books.google.de/books?id=hrZYAAAACAAJ&dq=theoretical+neuroscience))
 
-- Part C: Dynamical systems ([textbook 1](http://www.google.com/url?q=http%3A%2F%2Fwww.ams.jhu.edu%2F~ers%2Finvite%2Findex.html&sa=D&sntz=1&usg=AFQjCNHx49RlyhRwAxnU3GmmWUNv7pOjmw), [textbook 2](http://www.google.com/url?q=http%3A%2F%2Fwww.izhikevich.org%2Fpublications%2Fdsn.pdf&sa=D&sntz=1&usg=AFQjCNEeryHZ46ulsyTDZDfGxbpK5eH5AQ))
-
 &#x1F535; **[List of classes Fall 2020](https://docs.google.com/spreadsheets/d/1M_9cPpwzFZhtw68XNeOtfzPQTlfsnhworC-0YNLJEdE/edit#gid=0)**
 
+## Supporting Material
 
+- ML: Machine Learning and Pattern recognition, C. Bishop (partially available online)  ([PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf))
+- ML: The Elements of Statistical Learning, T. Hastie et al. ([available online](https://web.stanford.edu/~hastie/ElemStatLearn//download.html))
+- ML: [Machine learning course @ Stanford University online course (notes and videos)](https://see.stanford.edu/Course/CS229)
+- ML: [Mathematical monk course on machine learning (video lectures)](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+- [NN: Neural Networks course videos by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ## Home Assignments 
 
@@ -45,10 +50,8 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 
 | Submission deadline  | Files |
 | ------------- | ------------- |
-| date  | [EX 1]()  |
-| date2  | [EX 2]()  |
-
-
+| 27.10.20  | EX 1 |
+| 3.11.20  |EX 2 |
 
 
 ## Notes and links
